@@ -1,0 +1,6 @@
+{
+  "name": "Snake & Ladder - Classic Board Game",
+  "description": "An interactive, animated 2-4 player Snake and Ladder board game with serpentine 10x10 layout, fair dice physics, smooth pawn animations, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
